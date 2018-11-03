@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 25 18:21:59 2018
-
-@author: Neeti
-"""
 
 import pandas as pd
 import numpy as np
@@ -14,7 +9,6 @@ from mpl_toolkits.mplot3d import Axes3D
 
 #Importing Dataset
 print("Genetic Algorithm for regression " )
-print("Submitted By :: Neeti Jain - 18200683")
 
 # Reading csv file thru Pandas library
 dataframe = pd.read_csv("Project 1 - Dataset.csv")
