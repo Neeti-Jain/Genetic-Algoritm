@@ -38,8 +38,8 @@ WHAT ARE THE STEPS INVOLVED IN GENETIC ALGORITHM
 -Compute fitness
 -REPEAT
     --Selection
-    --Crossover
-    --Mutation
+        --Crossover
+            --Mutation
     --Compute fitness
--UNTIL population has converged
--STOP
+    -UNTIL population has converged
+    -STOP
