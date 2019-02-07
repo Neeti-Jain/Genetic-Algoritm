@@ -33,13 +33,13 @@ WHAT ARE THE STEPS INVOLVED IN GENETIC ALGORITHM
      This implies that some of the bits in the bit string can be flipped.
      
      Psuedocode
-START
-Generate the initial population
-Compute fitness
-REPEAT
-    Selection
-    Crossover
-    Mutation
-    Compute fitness
-UNTIL population has converged
-STOP
+-START
+-Generate the initial population
+-Compute fitness
+-REPEAT
+    --Selection
+    --Crossover
+    --Mutation
+    --Compute fitness
+-UNTIL population has converged
+-STOP
